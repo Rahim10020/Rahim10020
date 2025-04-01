@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Rahim Ali!  
+# 👋 Hello, I'm Rahim ALI!  
 
 ## 💻 Mobile & Web Developer | 🚀 Tech Enthusiast  
 
