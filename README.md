@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Rahim ALI!more actions  
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Welcome+on+my+github+!;I'm+a+passionate+developer,;Software+Engineering+Student%2C;Kotlin+and+Spring+Boot+app+dev.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Welcome+on+my+github+!;I'm+a+passionate+developer,;Software+Engineering+Student%2C;Kotlin+and+Django+webs+app+dev.)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🌱 currently improving my Kotlin and Flutter skills. <br>
