@@ -5,10 +5,10 @@
 <img align="right" alt="Coding Animation" width="350" src="https://media.giphy.com/media/1y2Ub9frvchVQw2tIn/giphy.gif">
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🌱 currently improving my Kotlin and Spring boot skills. <br>
+🌱 currently improving my Kotlin and Flutter skills. <br>
 👯 looking for challenging projects that push my limits and enhance my skills.<br> 
 💬 Interested in android  development with kotlin.<br>
-📫 How to reach me: on my <span><strong><a href="mailto:kpadjanestor78@gmail.com">GMAIL</a></strong></span>.  <br>
+📫 How to reach me: on my <span><strong><a href="mailto:rahialighi@gmail.com">GMAIL</a></strong></span>.  <br>
 😄 Pronouns: he/him.<br>
 🚀 Fun fact: Just like the best of Silicon Valley, I’m on a mission to innovate and create top-notch solutions as a developer !<br> 
 👨‍ Passionate with problem solving and daily routines automation. <br> 
@@ -16,7 +16,7 @@
 <hr/>
 <summary><h2>🫱🏼‍🫲🏾 Connect with me</h2></summary>
 <p align="left">
-  <a href="mailto:kpadjanestor78@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:rahialighi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nestor-kpadja-7488282ab/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -33,7 +33,6 @@
       <a href="https://github.com/search?q=user%3Atchindou+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atchindou+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atchindou+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://github.com/search?q=user%3Atchindou+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atchindou+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atchindou+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white"></a>
 
@@ -75,7 +74,7 @@ You can click the Preview link to take a look at your changes.
   <br/>
 <p>
 
-![KPADJA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nestor9j123&show_icons=true&theme=radical)  
+![Rahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nestor9j123&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nestor9j123&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nestor9j123&show_icons=true&theme=radical)
 
