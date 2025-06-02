@@ -1,5 +1,4 @@
-# 👋 Hello, I'm Rahim ALI!more actions  
-
+# 👋 Hello, I'm Rahim ALI!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Welcome+on+my+github+!;I'm+a+passionate+developer,;Software+Engineering+Student%2C;Kotlin+and+Django+webs+app+dev.)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -21,27 +20,4 @@
 
 <hr/>
 
-<!---
-Nestor9j123/Nestor9j123 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<summary><h2>📊 Github Stats and Activity</h2></summary> 
-  <br/>
-<p>
-
-![Rahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nestor9j123&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nestor9j123&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nestor9j123&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nestor9j123&theme=radical)
-
-## 📊 GitHub Stats  
-![Rahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahim10020&show_icons=true&theme=dark)  
-
-## 🔥 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim10020&layout=compact&theme=dark)  
-
----
-`
 💡 *"Code, learn, build, repeat*
