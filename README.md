@@ -1,14 +1,13 @@
-# 👋 Hello, I'm Rahim ALI!
+# Hi, I'm Rahim ALI ✌️!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Welcome+on+my+github+!;I'm+a+passionate+developer,;Software+Engineering+Student%2C;Kotlin+and+Django+webs+app+dev.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Welcome+on+my+github+!;Android+Developper,;Flutter+Developper,;Backend+Developper+with+Django.)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🌱 currently improving my Kotlin and Flutter skills. <br>
+🌱 currently improving my skills in Android development and Flutter development. <br>
 👯 looking for challenging projects that push my limits and enhance my skills.<br> 
-💬 Interested in android  development with kotlin.<br>
-📫 How to reach me: on my <span><strong><a href="mailto:rahialighi@gmail.com">GMAIL</a></strong></span>.  <br>
-😄 Pronouns: he/him.<br>
-🚀 Fun fact: Just like the best of Silicon Valley, I’m on a mission to innovate and create top-notch solutions as a developer !<br> 
+💬 Interested in android  development with kotlin and Backend development with Python-Django.<br>
+📫 Reach me on my <span><strong><a href="mailto:rahialighi@gmail.com">GMAIL</a></strong></span>.  <br>
+🚀 I can code while sleeping 😏<br> 
 👨‍ Passionate with problem solving and daily routines automation. <br> 
 
 <hr/>
