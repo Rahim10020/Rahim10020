@@ -17,6 +17,9 @@
   <a href="http://www.linkedin.com/in/rahim-ali-a6003226b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+## 📊 GitHub Stats  
+![Rahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahim10020&show_icons=true&theme=dark) 
+
 <hr/>
 
 💡 *"Code, learn, build, repeat*
