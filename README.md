@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&width=500&lines=Welcome+to+my+GitHub+profile!;Android+Developer;Flutter+Developer;Backend+Developer+with+Django;Building+the+future%2C+one+app+at+a+time!)](https://git.io/typing-svg)
 
+<div align="start">
+  <i>✨ "Practice makes perfect" ✨</i>
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 👨‍💻 About Me
@@ -10,7 +14,6 @@
 🌱 Currently mastering **Android development** and **Flutter** for cross-platform excellence  
 💡 Love solving complex problems and automating daily workflows  
 🎯 Always seeking challenging projects that push my technical boundaries  
-⚡ Fun fact: I can code while sleeping 😏  
 
 ---
 
@@ -25,7 +28,7 @@
 ### 🌐 Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔧 Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -36,23 +39,16 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="start">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahim10020&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim10020&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
+<br/>
+
+<div align="start">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahim10020&theme=tokyonight" alt="Rahim's GitHub Streak" />
 </div>
-
----
-
-## 🎯 What I'm Currently Working On
-
-- 🔭 Building innovative **Android applications** with modern architecture patterns
-- 🌟 Developing cross-platform solutions with **Flutter**
-- 🎨 Creating efficient **REST APIs** with Django
-- 📚 Learning advanced **Kotlin** techniques and **Jetpack Compose**
 
 ---
 
@@ -72,19 +68,9 @@ I'm always interested in collaborating on exciting projects, especially those in
 </a>
 </p>
 
----
-
-## 🏆 Featured Repositories
-
-<!-- My best repositories -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rahim10020&repo=BarApp&theme=tokyonight)](https://github.com/Rahim10020/BarApp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rahim10020&repo=Backdoor&theme=tokyonight)](https://github.com/Rahim10020/Backdoor)
-
----
-
-<div align="center">
+<div align="start">
   
-### 💭 *"Code, learn, build, repeat – that's the developer's way!"*
+### 💭 *"Talk is cheap. Show me the code." – Linus Torvalds*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rahim10020&color=blueviolet&style=flat)
 
