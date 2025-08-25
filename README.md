@@ -76,9 +76,9 @@ I'm always interested in collaborating on exciting projects, especially those in
 
 ## 🏆 Featured Repositories
 
-<!-- Add your best repositories here -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rahim10020&repo=your-best-repo&theme=tokyonight)](https://github.com/Rahim10020/BarApp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rahim10020&repo=another-great-repo&theme=tokyonight)](https://github.com/Rahim10020/Backdoor)
+<!-- My best repositories -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rahim10020&repo=BarApp&theme=tokyonight)](https://github.com/Rahim10020/BarApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rahim10020&repo=Backdoor&theme=tokyonight)](https://github.com/Rahim10020/Backdoor)
 
 ---
 
