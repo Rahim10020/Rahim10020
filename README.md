@@ -1,25 +1,91 @@
-# Hi, I'm Rahim ALI ✌️!
+# Hi there, I'm Rahim ALI! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Welcome+on+my+github+!;Android+Developper,;Flutter+Developper,;Backend+Developper+with+Django.)](https://git.io/typing-svg)
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&width=500&lines=Welcome+to+my+GitHub+profile!;Android+Developer;Flutter+Developer;Backend+Developer+with+Django;Building+the+future%2C+one+app+at+a+time!)](https://git.io/typing-svg)
 
-🌱 currently improving my skills in Android development and Flutter development. <br>
-👯 looking for challenging projects that push my limits and enhance my skills.<br> 
-💬 Interested in android  development with kotlin and Backend development with Python-Django.<br>
-📫 Reach me on my <span><strong><a href="mailto:rahialighi@gmail.com">GMAIL</a></strong></span>.  <br>
-🚀 I can code while sleeping 😏<br> 
-👨‍ Passionate with problem solving and daily routines automation. <br> 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<hr/>
-<summary><h2>🫱🏼‍🫲🏾 Connect with me</h2></summary>
+## 👨‍💻 About Me
+
+🚀 **Passionate Mobile & Backend Developer** with a focus on creating robust, scalable applications  
+🌱 Currently mastering **Android development** and **Flutter** for cross-platform excellence  
+💡 Love solving complex problems and automating daily workflows  
+🎯 Always seeking challenging projects that push my technical boundaries  
+⚡ Fun fact: I can code while sleeping 😏  
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🌐 Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🔧 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahim10020&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim10020&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahim10020&theme=tokyonight" alt="Rahim's GitHub Streak" />
+</div>
+
+---
+
+## 🎯 What I'm Currently Working On
+
+- 🔭 Building innovative **Android applications** with modern architecture patterns
+- 🌟 Developing cross-platform solutions with **Flutter**
+- 🎨 Creating efficient **REST APIs** with Django
+- 📚 Learning advanced **Kotlin** techniques and **Jetpack Compose**
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+I'm always interested in collaborating on exciting projects, especially those involving:
+- 📱 **Mobile app development** (Android/Flutter)
+- 🔧 **Backend systems** and API development
+- 🚀 **Problem-solving** and automation projects
+
 <p align="left">
-  <a href="mailto:rahialighi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="http://www.linkedin.com/in/rahim-ali-a6003226b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:rahialighi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="http://www.linkedin.com/in/rahim-ali-a6003226b">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </p>
 
-## 📊 GitHub Stats  
-![Rahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahim10020&show_icons=true&theme=dark) 
+---
 
-<hr/>
+## 🏆 Featured Repositories
 
-💡 *"Code, learn, build, repeat*
+<!-- Add your best repositories here -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rahim10020&repo=your-best-repo&theme=tokyonight)](https://github.com/Rahim10020/BarApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rahim10020&repo=another-great-repo&theme=tokyonight)](https://github.com/Rahim10020/Backdoor)
+
+---
+
+<div align="center">
+  
+### 💭 *"Code, learn, build, repeat – that's the developer's way!"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rahim10020&color=blueviolet&style=flat)
+
+</div>
