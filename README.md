@@ -7,7 +7,7 @@ Mobile & Backend Developer
 **Backend:** Python, Django, PostgreSQL  
 **Tools:** Git, VS Code, Android Studio
 
-## Contact
+## Let's Connect
 📧 [rahialighi@gmail.com](mailto:rahialighi@gmail.com)  
 💼 [LinkedIn](http://www.linkedin.com/in/rahim-ali-a6003226b)
 
