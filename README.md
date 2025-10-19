@@ -13,4 +13,4 @@ Mobile & Web Developer
 🔗 **LinkedIn:** [Rahim Ali](http://www.linkedin.com/in/rahim-ali-a6003226b)
 
 ---
-*"Talk is cheap. Show me the code."*
+*"Talk is cheap. Show me the code." Linus Torvalds*
