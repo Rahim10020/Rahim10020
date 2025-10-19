@@ -8,7 +8,7 @@ Mobile & Web Developer
 **Tools:** Git, VS Code, Android Studio
 
 ## Let's Connect
-🌐 **Portfolio:** [rahim-portfolio.com](https://rahim10020.github.io/Portfolio/)  
+🌐 **Portfolio:** [rahim-portfolio.com](https://rahim-ali-dev.vercel.app/)  
 ✉️ **Email:** [rahialighi@gmail.com](mailto:rahialighi@gmail.com)  
 🔗 **LinkedIn:** [Rahim Ali](http://www.linkedin.com/in/rahim-ali-a6003226b)
 
