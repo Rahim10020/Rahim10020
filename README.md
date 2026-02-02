@@ -1,5 +1,3 @@
-[![committers.top badge](https://user-badge.committers.top/togo/Rahim10020.svg)](https://user-badge.committers.top/togo//Rahim10020)
-
 # Rahim ALI
 Mobile & Web Developer
 
