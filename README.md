@@ -1,4 +1,4 @@
-# Rahim ALI ✋
+# Rahim ALI 👋
 Mobile & Web Developer
 
 ## Stack
