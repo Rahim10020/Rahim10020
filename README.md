@@ -8,7 +8,7 @@ Mobile & Web Developer
 **Tools:** Git, VS Code, Android Studio
 
 ## Let's Connect
-**Website:** [rahim.ali.dev](https://rahim-ali-dev.vercel.app/)  
+**Website:** [rahim.dev.me](https://rahim-dev-me.vercel.app/)  
 **Email:** [rahialighi@gmail.com](mailto:rahialighi@gmail.com)  
 **LinkedIn:** [Rahim Ali](http://www.linkedin.com/in/rahim-ali-a6003226b)  
 ---
