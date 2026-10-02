@@ -1,4 +1,4 @@
-![Bannière de profil](https://raw.githubusercontent.com/Rahim10020/Rahim10020/main/banner.png)
+![Bannière de profil](https://raw.githubusercontent.com/Rahim10020/Rahim10020/main/banner-2.png)
 
 ## Let's Connect
 **Website:** [rahim.dev.me](https://rahim-dev-me.vercel.app/)  
